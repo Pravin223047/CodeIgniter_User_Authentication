@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1709958698;_ci_previous_url|s:26:"http://localhost:8080/auth";fail|s:14:"User not found";__ci_vars|a:2:{s:4:"fail";s:3:"old";s:13:"_ci_old_input";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:3:{s:14:"csrf_test_name";s:32:"0b71138608a52d00a5d6d7454af86c58";s:5:"email";s:12:"12@gmail.com";s:8:"password";s:5:"12345";}}
